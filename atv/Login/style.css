@@ -1,0 +1,14 @@
+fieldset{
+	text-align: center;
+	background-color: #E0FFFF;
+	width: 550px;
+	margin: 15 auto;
+	border-radius: 5px;
+	border-color: black;
+	font-size: 18px;
+	font-family: Arial;
+}
+#c{
+	background-color: 	#F5FFFA;
+	border-color: black;
+}

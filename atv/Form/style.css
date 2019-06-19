@@ -1,0 +1,9 @@
+fieldset{
+	background-color: #7FFFD4;
+	width: 550px;
+	margin: 15 auto;
+	border-radius: 5px;
+	border-color: black;
+	font-size: 18px;
+	font-family: Arial;
+}
